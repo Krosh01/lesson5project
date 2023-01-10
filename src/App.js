@@ -2,8 +2,8 @@
 function App() {
   return (
     <div className="App">
-      <h2>Смог присоединиться:)!!</h2>
-    </div>
+      <p>Hello</p>
+         </div>
   );
 }
 
